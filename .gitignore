@@ -1,0 +1,17 @@
+# virtual environment
+/venv
+venv/
+
+# environment variables file
+.env
+
+# __init__.py files
+__init__.py
+
+__pycache__/
+
+# sqlite db
+*.sqlite3
+
+# static file
+static/
