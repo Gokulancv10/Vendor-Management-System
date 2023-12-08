@@ -6,11 +6,11 @@ A RESTful API that provides vendor management functionality for any front-end ap
 
 ## 1. Project Setup
 
-#### i. Clone the project in to your local machine:
+#### i. Clone the project into your local machine:
 
     git clone https://github.com/Gokulancv10/Vendor-Management-System.git
 
-#### ii. Create virtual environment and activate it:
+#### ii. Create a virtual environment and activate it:
 
     pip install virtualenv
 	virtualenv env --python=python3
@@ -30,10 +30,9 @@ A RESTful API that provides vendor management functionality for any front-end ap
 
 	python manage.py runserver
 
-The server will run in http://127.0.0.1:8000
+The server will run at http://127.0.0.1:8000
 
-browse the url http://127.0.0.1:8000/swagger/
-All the apis available for the user will be displayed
+browse the URL http://127.0.0.1:8000/swagger/ All the APIs will be displayed
 
 ## API Reference
 
